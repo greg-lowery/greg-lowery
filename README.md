@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greg-lowery
 - 👀 I’m interested in ... music, Star Wars, MtG, AoT, and the future!
-- 🌱 I’m currently learning ... C#, SQL, CSS, HTML, and JavaScript at Tech Elevator!
+- 🌱 At Tech Elevator I learned ... C#, SQL, CSS, HTML, and JavaScript
 - 💞️ I’m looking to collaborate on ... simple, fun projects that can help solidify my learning :)
 - 📫 How to reach me ... https://www.linkedin.com/in/greg-lowery
 
